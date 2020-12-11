@@ -6,7 +6,8 @@ namespace StateCensusAnalyser
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("State Census Analyser");
+            Console.ReadKey();
         }
     }
 }
